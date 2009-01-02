@@ -1,0 +1,7 @@
+alias    | class
+int      | IntField
+string   | StringField
+memo     | MemoField
+date     | DateField
+time     | TimeField
+bit      | BitField

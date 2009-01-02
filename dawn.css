@@ -1,0 +1,69 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background: rgb(98%, 98%, 100%);
+}
+
+table.page, td.page {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 100%;
+	border-spacing: 0px;
+}
+
+td.page {
+	vertical-align: top;
+}
+
+h1.form {
+	padding: 5px 10px 5px 10px;
+	margin: 0px 0px 0px 0px;
+	font-size: 16px;
+	color: white;
+	background-color: rgb(10%, 10%, 50%);
+	white-space: nowrap;
+	width: 0px;
+}
+
+table.form {
+	border: 1px solid black;
+	background-color: rgb(80%, 80%, 90%);
+	margin: 0px 0px 10px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 100%;
+}
+
+td.form {
+	margin: 0px 0px 0px 0px;
+	padding: 2px 2px 2px 2px;
+	vertical-align: top;
+}
+
+span.widget {
+	font-size: 11px;
+}
+
+span.menu {
+	font-size: 9px;
+}
+
+p.copyright {
+	margin: 0px 0px 0px 60%;
+	padding-top: 2px;
+	border-top: 1px solid black;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-align: right;
+}
+
+a.copyright:link, a.copyright:visited {
+	text-decoration: none;
+	font-weight: bold;
+	color: rgb(10%, 10%, 50%);
+}
+
+a.copyright:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}
+

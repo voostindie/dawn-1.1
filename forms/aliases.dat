@@ -1,0 +1,14 @@
+alias                  | class
+menu                   | MenuForm
+login                  | LoginForm
+basic                  | BasicForm
+tracker                | TrackerForm
+relation_tracker       | RelationTrackerForm
+pager                  | PagerForm
+search                 | SearchForm
+record_view            | RecordViewForm
+record_edit            | RecordEditForm
+record_insert          | RecordInsertForm
+relation_view          | RelationViewForm
+extended_relation_view | ExtendedRelationViewForm
+field_view             | FieldViewForm

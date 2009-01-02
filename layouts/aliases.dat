@@ -1,0 +1,8 @@
+alias    | class
+empty    | EmptyLayout
+flow     | FlowLayout
+vertical | VerticalLayout
+table    | TableLayout
+border   | BorderLayout
+grid     | GridLayout
+centered | CenteredLayout

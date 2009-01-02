@@ -1,0 +1,4 @@
+alias  | class
+insert | InsertCommand
+update | UpdateCommand
+delete | DeleteCommand

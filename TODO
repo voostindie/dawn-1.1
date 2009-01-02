@@ -1,0 +1,34 @@
+TODO
+
+- Replace load() with setProperties
+- Replace save() with getProperties
+- Rename class Exception to Error
+- Generate XHTML that validates.
+- Allow an escape character in configuration files
+- Make configuration reader more robust
+- Add limit() and count() to queries (Eclipse)
+- Store additional table information:
+  - Length of fields
+  - Checks on fields
+  - Foreign keys
+  - Keys of length > 1
+- Automatically create JavaScripts for various input fields
+- Make BFS better (smarter and better logging)
+- Use timestamping records to simulate locking (only one timestamp necessary in each table)
+- Integrate Eclipse with Dawn for debugging and logging
+- Write a unit tester and integrate it with the system
+- Make Error work with unit testing (graceful recovery)
+- Write unit tests for every class
+- Update documentation for use with Doxygen
+- Write user's guide
+- Write programmer's manual
+- Write beginner's guide (quickstart)
+
+- Build an additional tool to automatically read Object properties and build
+  documentation for it (a file 'Object.dat' in every class directory, where
+  Object is the class name)
+- Build an additional tool to read a DDL and build an application skeleton.
+- Build a GUI to generate applications with Point & Click
+
+- Use the PHP Accelerator to speed up applications, and write a benchmark
+- Use or build some kind of database connection pooling tool (Unix first, maybe Windows later?)

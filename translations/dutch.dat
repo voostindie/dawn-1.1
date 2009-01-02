@@ -1,0 +1,36 @@
+identifier             | translation
+SITE_TITLE             | Naamloze Dawn Applicatie
+SITE_DESCRIPTION       | Naamloze Dawn Applicatie
+SITE_KEYWORDS          | Dawn, Database Applications for the Web in No-time
+SITE_GENERATED         | gegeneerd door %1 in %2 seconden
+SITE_DEVELOPER         | ontwikkelaar
+SITE_WEBMASTER         | beheerder
+FORM_TITLE_MENU        | Menu
+LOCALE_DUTCH           | Nederlands
+LOCALE_ENGLISH_US      | Engels (US)
+LOGIN_WELCOME          | Geef uw loginnaam en wachtwoord:
+LOGIN_FAILED           | <b>Inloggen mislukt</b><br />Onjuiste combinatie van loginnaam en wachtwoord
+USER_LOGOUT            | Uitloggen
+USER_LOGIN             | Inloggen
+USER_NAME              | Gebruikersnaam:
+USER_PASSWORD          | Wachtwoord:
+BUTTON_CANCEL          | Annuleren
+BUTTON_DELETE          | Verwijderen
+BUTTON_DELETE_QUESTION | Weet u zeker dat dit record verwijderd moet worden?
+BUTTON_EDIT            | Wijzigen
+BUTTON_NEW             | Nieuw
+BUTTON_INSERT          | Toevoegen
+BUTTON_OK              | Ok
+BUTTON_UPDATE          | Bijwerken
+BUTTON_SEARCH          | Zoeken
+BUTTON_CLEAR           | Wissen
+BUTTON_UPLOAD          | Uploaden
+PAGER_EMPTY            | - geen resultaten -
+PAGER_FULL             | pagina <b>%1</b> van <b>%2</b>
+ERROR_RECORD_EMPTY     | Er kon geen actief record worden getoond omdat de tabel geen records bevat, of omdat een zoekopdracht geen resultaten opleverde.
+ERROR_RELATION_EMPTY   | - geen records gevonden -
+ERROR_RECORD_DELETE    | Het record kon niet verwijderd worden vanwege de volgende databasefout:<br />%1
+ERROR_RECORD_INSERT    | Het record kon niet opgeslagen worden vanwege de volgende databasefout:<br />%1
+ERROR_RECORD_UPDATE    | Het record kon niet bijgewerkt worden vanwege de volgende databasefout:<br />%1
+YES                    | Ja
+NO                     | Nee
